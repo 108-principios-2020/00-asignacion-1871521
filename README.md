@@ -8,7 +8,7 @@
 -----
 
 + ¿Que es la __estadística__?
-
+ + R:Ciencia que utiliza conjuntos de datos numéricos para obtener, a partir de ellos, inferencias basadas en el cálculo de probabilidades.
 
 + ¿Cómo se divide la __estadística__?
 
